@@ -1,2 +1,3 @@
-# Agentic-Ciriculum-
-A From Scratch Agentic Set Of Projects That Can Be Referenced By Anyone Of Any Skill Level 
+# Agentic-Ciriculum
+
+This repository is a curated, hands-on journey from beginner-level fundamentals to advanced agentic AI systems—built entirely from scratch. Whether you're just starting out or already have experience, these projects are designed to be modular, understandable, and progressively challenging. Each project includes well-documented code, learning objectives, and explanations that make it easy to follow, remix, or expand. Ideal for self-learners, educators, and developers who want to deepen their understanding of machine learning, deep learning, and intelligent agents through practical, ground-up implementations.
